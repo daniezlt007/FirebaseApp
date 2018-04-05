@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "213458435543",
+    "firebase_url": "https://primeiro-projeto-218ba.firebaseio.com",
+    "project_id": "primeiro-projeto-218ba",
+    "storage_bucket": "primeiro-projeto-218ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213458435543:android:6efb2d2c2520507f",
+        "android_client_info": {
+          "package_name": "com.deasystem.daniel.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213458435543-v25p3uaimpi37tk5lih9t6ttvcr98k0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deasystem.daniel.firebaseapp",
+            "certificate_hash": "cbf667d34643da4f8c99f20953bdf702616dcec9"
+          }
+        },
+        {
+          "client_id": "213458435543-5qh5nctmq3975e5arkje33lfsk0ogdu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoSNb28ETtMH3ecUSGKceWJN8NPFBkAFo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213458435543-5qh5nctmq3975e5arkje33lfsk0ogdu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

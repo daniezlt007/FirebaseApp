@@ -1,0 +1,4 @@
+#Fri Feb 09 19:44:30 BRT 2018
+base.0=/home/daniel/AndroidStudioProjects/FirebaseApp/app/build/intermediates/transforms/dexMerger/debug/1
+renamed.0=classes.dex
+file.0=/home/daniel/AndroidStudioProjects/FirebaseApp/app/build/intermediates/transforms/dexMerger/debug/1/classes.dex
